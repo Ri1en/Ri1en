@@ -1,7 +1,7 @@
 # Aleksandr Telukhin
 
 ## Links:
-- Email: telukhin.fortech@gmail.com
+- Email: alexandrteluhin@gmail.com
 - Vk: https://vk.com/alexteluhin
 - Telegram: https://t.me/R1len
 ## Languages, Tools and skills:
